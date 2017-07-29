@@ -62,5 +62,3 @@ target/
 .python-version
 
 .idea
-Pipfile
-Pipfile.lock
